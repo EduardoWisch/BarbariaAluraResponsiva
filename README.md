@@ -1,1 +1,1 @@
-# EduardoW-barbaria-alura-responsiva
+# barbearia-alura
